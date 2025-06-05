@@ -1,2 +1,2 @@
 # Dedan
-This is a small tribute to the legend Dedan Kimathi
+A tribute to the legend Dedan Kimathi
